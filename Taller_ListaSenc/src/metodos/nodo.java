@@ -7,7 +7,7 @@ package metodos;
 
 /**
  *
- * @author Nico
+ * @author Nico and Juan Marin
  */
 public class nodo {
     String Nombre;
