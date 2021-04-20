@@ -10,6 +10,8 @@ package metodos;
  * @author Nico y Juan Marin
  */
 
+//Hola
+
 //Inicio Codigo Nodo
 public class nodo {
     String Nombre;
