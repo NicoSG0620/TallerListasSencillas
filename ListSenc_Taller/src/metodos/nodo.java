@@ -6,8 +6,8 @@
 package metodos;
 
 /**
- *
- * @author Nico
+ ** *****
+ * @author Nico y Juan Marin
  */
 
 //Inicio Codigo Nodo
